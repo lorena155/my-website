@@ -1,0 +1,36 @@
+h1{
+	text-align: center;
+	border: solid 2px white ;
+	padding: 40px;
+	color: black;
+    font-size: 50px;
+    font-family: 'Bungee Shade', cursive;
+
+
+}
+h2{float: right;}h3{float: right;}h4{float: right;}h5{float: right;}
+h6{float: right;}
+h7{float: right;}
+h8{float: right;}h9{align-self: center;}h10{float: right;}
+p{text-align: center;
+	font-size: 40px;
+	color: black;
+	font-family: 'Fascinate Inline', cursive;
+
+
+}
+body{
+	text-align: left;
+	background-color: #ffff00
+;
+	font-family: 'Monoton', cursive;
+	padding: 20px;
+}
+form{text-align: center;
+	font-size: 30px;
+	color: black;
+	font-family: 'Fascinate Inline', cursive;
+
+
+
+}
